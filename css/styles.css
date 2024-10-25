@@ -3993,6 +3993,7 @@ td:last-child {
 
 .folio-entries .entry {
     position: relative;
+    margin: auto;
 }
 
 .folio-entries .entry__info {
